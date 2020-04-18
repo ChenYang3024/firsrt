@@ -1,2 +1,2 @@
-# firsrt
+# first
 my first repository
